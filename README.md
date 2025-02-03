@@ -38,4 +38,4 @@ I'm always eager to explore **challenging software engineering roles**, especial
 
 ## 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/priyalrdesai99/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/priyalrdesai99)
+[![Portfolio](https://img.shields.io/badge/GitHub-Profile-black?logo=github)]([https://github.com/priyalrdesai99](https://priyalrdesai99.github.io/portfolio/))
