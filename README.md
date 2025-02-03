@@ -33,9 +33,6 @@ I'm a passionate software engineer with experience in **full-stack development, 
 - Contributed to **interactive chatbots** using LLMs during a Fortive hackathon  
 - Led the **migration and upgrade of Spring Boot projects** at Fluke Corporation  
 
-## 🔍 Looking For  
-I'm always eager to explore **challenging software engineering roles**, especially in backend development, cloud computing, and automation.  
-
 ## 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/priyalrdesai99/)  
 [![Portfolio](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://priyalrdesai99.github.io/portfolio/)
